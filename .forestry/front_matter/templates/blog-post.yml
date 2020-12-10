@@ -8,6 +8,13 @@ fields:
 - type: text
   name: title
   label: title
+- name: cover-img
+  type: file
+  config:
+    maxSize: 64
+  label: cover-img
+  description: This is the cover that appears on top of the post as well as the image
+    in the listings
 - type: datetime
   name: date
   label: date
