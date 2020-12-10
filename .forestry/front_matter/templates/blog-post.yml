@@ -19,8 +19,9 @@ fields:
 - type: datetime
   name: date
   label: date
-- type: text
-  name: categories
-  label: categories
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
 pages:
 - _posts/how-to-add-an-rss-feed-to-a-jekyll-blog.md
