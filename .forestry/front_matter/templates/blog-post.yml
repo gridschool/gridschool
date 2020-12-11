@@ -24,4 +24,4 @@ fields:
   default: []
   label: tags
 pages:
-- _posts/how-to-add-an-rss-feed-to-a-jekyll-blog.md
+- _posts/2020-12-10-how-to-add-an-rss-feed-to-a-jekyll-blog.md
