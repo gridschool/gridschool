@@ -1,15 +1,16 @@
 ---
-layout: Post
+layout: post
 title: How to add an RSS feed to a Jekyll blog
 cover-img: "/uploads/obi-onyeador-ueqvutrs224-unsplash.jpg"
 date: 2020-12-10 07:00:00 +0000
-categories: 'jekyll rss '
+categories: "jekyll rss "
+featured: true
 tags:
-- jekyll
-- rss
-- coding
-
+  - jekyll
+  - rss
+  - coding
 ---
+
 # How to add an RSS feed to a Jekyll blog
 
 Add his line to your site's Gemfile:

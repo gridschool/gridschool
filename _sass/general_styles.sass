@@ -1,8 +1,48 @@
 @import 'colors.sass'
 
 body
-    font-family: 'Arial', sans-serif
+    font-family: Avenir,Helvetica Neue,Helvetica,sans-serif
     display: block
 
 *
     box-sizing: border-box
+
+.logo
+    background-image: url('../../assets/images/logo.svg')
+    background-position: 0 0
+    background-repeat: no-repeat
+    background-size: contain
+    display: block
+    height: 2.2em
+    width: 14em
+    @media only screen and (max-width: 1112px)
+        margin-left: 0
+
+a
+    text-decoration: none
+
+h2
+    font-size: 2.5rem
+    font-weight: bold
+    line-height: 1.25
+    margin: 0
+p
+    color: $text
+    font-weight: 500
+    font-size: 1.5rem
+    line-height: 19px
+    margin: 0
+
+.post-item
+    align-items: flex-start
+    display: flex
+    flex-flow: column
+    width: 100%
+    .img
+        background-position: 0 0
+        background-size: cover
+        border: solid .1em $gray
+        background-repeat: no-repeat
+        display: block
+        height: 15em
+        width: 100%

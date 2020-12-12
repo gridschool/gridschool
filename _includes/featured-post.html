@@ -1,0 +1,5 @@
+{% assign featuredPost = where %}
+{% assign featuredPost = site.posts | where: 'featured', true %}
+{% for post in site.posts limit:1 %}
+    {% include post-item.html %}    
+{% endfor %}
