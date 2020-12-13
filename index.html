@@ -10,4 +10,15 @@ keywords: Web Development, Product Design, UX Design, Lifestyle Design, Self Gro
 <div class="featured-post-container" style="padding-right: {{ page.paddingSides }}; padding-left: {{ page.paddingSides }};">
     {% include featured-post.html %}
 </div>
+<div class="half-half">
+    <div class="content-left">
+        {% for post in site.posts limit:2 %}
+            {% include post-item.html %}
+        {% endfor %}
+    </div>
+    <div class="content-right">
+        {% include ad-large-skyscraper.html %}
+    </div>
+</div>
+<div class="side-posts-container"></div>
 {% include footer.html %}

@@ -11,8 +11,6 @@ tags:
   - coding
 ---
 
-# How to add an RSS feed to a Jekyll blog
-
 Add his line to your site's Gemfile:
 
     gem 'jekyll-feed'

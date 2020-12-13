@@ -22,16 +22,26 @@ a
     text-decoration: none
 
 h2
-    font-size: 2.5rem
+    font-size: 2em
     font-weight: bold
     line-height: 1.25
-    margin: 0
+    margin: .5em 0 .3em 0
 p
     color: $text
-    font-weight: 500
-    font-size: 1.5rem
-    line-height: 19px
+    display: flex
+    flex-wrap: wrap
+    font-weight: 400
+    font-family: Avenir,Helvetica Neue,Helvetica,sans-serif
+    font-size: 1.1em
+    line-height: 1.4em
     margin: 0
+
+code
+    background-color: $light
+    border-radius: .3em
+    margin: .5em 0
+    padding: .8em 1.2em
+    width: 100%
 
 .post-item
     align-items: flex-start
@@ -39,6 +49,7 @@ p
     flex-flow: column
     width: 100%
     .img
+        background-color: $light
         background-position: 0 0
         background-size: cover
         border: solid .1em $gray
@@ -46,3 +57,9 @@ p
         display: block
         height: 15em
         width: 100%
+
+.ad-large-skyscraper
+    background-color: $light
+    display: block
+    height: 600px
+    width: 300px
