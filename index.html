@@ -13,12 +13,20 @@ keywords: Web Development, Product Design, UX Design, Lifestyle Design, Self Gro
 <div class="half-half">
     <div class="content-left">
         {% for post in site.posts limit:2 %}
-            {% include post-item.html %}
+            <div class="mb-2">
+                {% include post-item.html %}
+            </div>
         {% endfor %}
     </div>
     <div class="content-right">
         {% include ad-large-skyscraper.html %}
     </div>
 </div>
-<div class="side-posts-container"></div>
+
+<div class="grid-container">
+    {% for post in site.posts %}
+        {% include post-item.html %}
+    {% endfor %}
+</div>
+
 {% include footer.html %}
