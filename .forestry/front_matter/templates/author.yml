@@ -1,4 +1,46 @@
 ---
 label: Author
 hide_body: false
-fields: []
+fields:
+- name: name
+  type: text
+  config:
+    required: false
+  label: Name
+  description: Author's name
+- name: abstract
+  type: text
+  config:
+    required: false
+  label: Abstract
+  description: Overview of author
+- name: author_img
+  type: file
+  config:
+    maxSize: 64
+  label: author_img
+- name: twitter_link
+  type: text
+  config:
+    required: false
+  label: Twitter link
+- name: facebook_link
+  type: text
+  config:
+    required: false
+  label: Facebook link
+- name: linkedin_link
+  type: text
+  config:
+    required: false
+  label: Linkedin link
+- name: instagram_link
+  type: text
+  config:
+    required: false
+  label: Instagram link
+- name: youtube_link
+  type: text
+  config:
+    required: false
+  label: Youtube link
