@@ -28,5 +28,17 @@ fields:
   type: tag_list
   default: []
   label: tags
+- name: author_path
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: authors
+      file: 
+      path: 
+  label: Author
 pages:
 - _posts/2020-12-10-how-to-add-an-rss-feed-to-a-jekyll-blog.md
