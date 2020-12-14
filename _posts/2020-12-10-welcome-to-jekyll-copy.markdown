@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Welcome to Jekyll!"
+title: Welcome to Jekyll!
 abstract: test this is a test test test.
 cover-img: "/uploads/obi-onyeador-ueqvutrs224-unsplash.jpg"
-date: 2020-12-10 11:47:27 -0700
+date: 2020-12-10T11:47:27.000-07:00
 categories: jekyll update
----
+author_path: _authors/victor-de-leon.md
 
+---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
