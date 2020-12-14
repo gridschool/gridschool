@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Welcome to Jekyll!"
+abstract: test this is a test test test.
 cover-img: "/uploads/obi-onyeador-ueqvutrs224-unsplash.jpg"
 date: 2020-12-10 11:47:27 -0700
 categories: jekyll update
