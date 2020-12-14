@@ -53,7 +53,7 @@
     padding: 3em 12% 2em 12%
     width: 100%
     .post-item
-        margin-bottom: 2em
+        margin-bottom: 3em
         width: 30%
 
 .post-container
@@ -86,10 +86,20 @@
     margin: 0 auto
     margin-top: 4em
     width: 100%
-    h1, .subtitle
+    h1
         justify-content: flex-start
         text-align: left
         width: 100%
+    .subtitle
+        justify-content: flex-start
+        text-align: left
+        width: 100%
+
+.post-link
+    h2
+        color: $black
+    p
+        color: $text
 
 .post-cover
     align-items: center
@@ -104,3 +114,32 @@
         height: auto
         max-width: 630px
         width: 100%
+
+.post-details
+    display: flex
+    margin-top: .9em
+    .post-row
+        align-items: center
+        display: flex
+        .author-pic
+            background-color: $primary
+            border-radius: 50%
+            display: block
+            height: 3.5em
+            margin-right: .5em
+            width: 3.5em
+        .post-desc
+            display: flex
+            flex-flow: column
+            .post-author-name
+                color: $primary
+                margin-bottom: .15em
+                text-transform: capitalize
+                &:hover
+                    text-decoration: underline
+            .post-date
+                font-size: .83em
+                &:hover
+                    text-decoration: underline
+    .post-share-options
+        display: flex
