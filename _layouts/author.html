@@ -5,10 +5,28 @@
 <body>
     {% include topbar.html %}
     {% include categories-navbar.html %}
-    <img src="{{ page.author_img | relative_url }}" alt="{{ author.name }}" />
-    <h1>{{ page.name }}</h1>
-    <h1>{{ page.abstract }}</h1>
-    <h1>{{ page.content }}</h1>
+    <div class="author-container">
+        <div class="content-left">
+                    <div class="author-pic">
+                        <img src="{{ page.author_img | relative_url }}" alt="{{ author.name }}" />
+                    </div>
+                    <div class="author-details">
+                        <h1>{{ page.name }}</h1>
+                        <h2>{{ page.abstract }}</h2>
+                        <p>{{ page.content }}</p>
+                        <div class="author-links">
+                            <a href="#" class="btn-icon twitter"></a>
+                            <a href="#" class="btn-icon youtube"></a>
+                            <a href="#" class="btn-icon github"></a>
+                        </div>
+                    </div>
+        </div>
+        <div class="author-ad">
+            {% include ad-medium.html %}
+        </div>
+        <hr>
+    </div>
+    {% include author-posts.html %}
     {% include imports/js.html %}
     {% include footer.html %}
 </body>

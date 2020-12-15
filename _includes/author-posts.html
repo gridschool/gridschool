@@ -1,0 +1,7 @@
+<div class="grid-container">
+    {% for post in site.posts %}
+        {% if page.path == post.author_path %}
+            {% include post-item.html %}
+        {% endif %}
+    {% endfor %}
+</div>
