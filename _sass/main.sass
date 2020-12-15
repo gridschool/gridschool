@@ -118,10 +118,13 @@
 .post-details
     display: flex
     margin-top: .9em
+    flex-wrap: wrap
+    justify-content: space-between
     width: 100%
     .post-row
         align-items: center
         display: flex
+        width: 60%
         .author-pic
             background-color: $primary
             background-position: center
@@ -146,7 +149,10 @@
                 &:hover
                     text-decoration: underline
     .post-share-options
+        align-items: center
         display: flex
+        justify-content: flex-end
+        width: 40%
 
 .author-container
     display: flex
@@ -171,6 +177,11 @@
                 font-size: 1.1em
             p
                 margin-top: .3em
+        .author-links
+            align-items: center
+            display: flex
+            margin-left: -.5em
+            justify-content: flex-start
     hr
         border: 0
         height: .1em
