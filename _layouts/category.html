@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include imports/head.html %}
+
+<body>
+    {% include topbar.html %}
+    {% include post-categories-navbar-static.html %}
+    {% for tag in site.tags %}
+        {% if page.tag == tag[0] %}
+            <h3>{{ tag[0] }}</h3>
+            <ul>
+                {% for post in tag[1] %}
+                <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+    {% endfor %}
+    {% include footer.html %}
+    {% include imports/js.html %}
+</body>
+
+</html>
