@@ -2,7 +2,7 @@
     {% for author in site.authors %}
         <div class="post-row">
             {% if author.path == page.author_path %}
-                    <a href="{{ author.url }}" class="author-pic" style="background-image: url('{{ author.author_img | relative_url }}')"></a>
+                    <a href="{{ author.url }}" class="author-pic" style="background-image: url('{{ author.img_url | relative_url }}')"></a>
                     <div class="post-desc">
                         <a href="{{ author.url }}" class="post-author-name">{{ author.name }}</a>
                         <a href="#" class="post-date">{{ page.date | date_to_string }}</a>
@@ -12,6 +12,6 @@
     {% endfor %}
     <div class="post-share-options">
         <a href="https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fwww.gridschool.io%2F&amp;&amp;text={{ page.title }}&amp;tw_p=tweetbutton&amp;&amp;url=https%3A%2F%2Fwww.gridschool.io{{page.url | uri_escape  }}" class="btn-icon twitter"></a>
-        <a href="#" class="btn-icon linkedin"></a>
+        <div class="fb-share-button" data-href="{{ page.url }}" data-layout="button"></div>
     </div>
 </div>

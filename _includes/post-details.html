@@ -2,7 +2,7 @@
     {% for author in site.authors %}
         <div class="post-row">
             {% if author.path == post.author_path %}
-                    <a href="{{ author.url }}" class="author-pic" style="background-image: url('{{ author.author_img | relative_url }}')"></a>
+                    <a href="{{ author.url }}" class="author-pic" style="background-image: url('{{ author.img_url | relative_url }}')"></a>
                     <div class="post-desc">
                         <a href="{{ author.url }}" class="post-author-name">{{ author.name }}</a>
                         <a href="#" class="post-date">{{ post.date | date_to_string }}</a>

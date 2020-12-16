@@ -2,7 +2,15 @@
     <meta charset="UTF-8">
     <meta content="width=device-width" name="viewport">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta name="viewport" content="width=device-width, initial-scale=1">    <!-- Custom Fonts -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">  
+    <!-- You can use Open Graph tags to customize link previews.
+    Learn more: https://developers.facebook.com/docs/sharing/webmasters -->
+    <meta property="og:url" content="{{ page.url }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:description" content="{{ page.abstract }}" />
+    <meta property="og:image" content="{{ page.img_url }}" />
+    <!-- Custom Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap" rel="stylesheet">
     <link rel="shortcut icon" type="image/png" href="favicon.png">
     <link rel="stylesheet" href="{{ "/assets/css/styles.css" | prepend: site.baseurl }}">

@@ -2,7 +2,7 @@
 layout: author
 name: Victor De León
 abstract: Founder @lefuse | Designer and Developer | Passionate about Personal Growth and Lifestyle Design.
-author_img: "/uploads/34537611_10155102007766618_9002380752406446080_n.jpg"
+img_url: "/uploads/34537611_10155102007766618_9002380752406446080_n.jpg"
 twitter_link: https://twitter.com/victorldleon
 facebook_link:
 linkedin_link: https://www.linkedin.com/in/victorldleon/

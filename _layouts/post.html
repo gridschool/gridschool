@@ -11,7 +11,7 @@
         {% include post-page-details.html %}
     </div>
     <div class="post-cover">
-        <img src="{{ page.cover-img | relative_url }}" alt="{{ page.title | relative_url }}" />
+        <img src="{{ page.img_url | relative_url }}" alt="{{ page.title | relative_url }}" />
     </div>
     <div class="post-container">
         {{ content }}
