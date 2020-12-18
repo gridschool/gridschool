@@ -4,6 +4,7 @@ title: Welcome to Jekyll!
 abstract: test this is a test test test.
 img_url: "/uploads/obi-onyeador-ueqvutrs224-unsplash.jpg"
 date: 2020-12-10T11:47:27.000-07:00
+main_category: coding
 categories: jekyll update
 author_path: _authors/victor-de-leon.md
 ---

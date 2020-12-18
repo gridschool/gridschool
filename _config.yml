@@ -57,3 +57,6 @@ collections:
   authors:
     output: true
     sort_by: relevance
+  all-categories:
+    output: true
+    sort_by: relevance

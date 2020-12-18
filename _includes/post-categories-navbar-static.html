@@ -1,7 +1,8 @@
 <div class="post-categories-nav">
-    <h3>{{ page.tag }}</h3>
-    <a href="#">category 1</a>
-    <a href="#">category 2</a>
-    <a href="#">category 3</a>
-    <a href="#">category 4</a>
+    <h3>{{ page.main_category }}</h3>
+    {% for category in site.all-categories %}
+        {% if category.main_category == page.main_category and page.main_category != category.name %}
+            <a href="{{ category.url }}">{{ category.name}}</a>
+        {% endif %}
+    {% endfor %}
 </div>

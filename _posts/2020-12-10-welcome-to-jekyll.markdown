@@ -2,6 +2,7 @@
 layout: post
 title: this is a grea post
 date: 2020-12-10T11:47:27.000-07:00
+main_category: self development
 categories:
   - jekyll update
 abstract: blah blah blah
