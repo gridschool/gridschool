@@ -1,0 +1,7 @@
+<div class="categories-navbar">
+    {% for category in site.all-categories %}
+    {% if category.main == true %}
+    <a href="{{ category.url }}" class="category-item">{{ category.name }}</a>
+    {% endif %}
+    {% endfor %}
+</div>

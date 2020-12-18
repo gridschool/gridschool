@@ -5,7 +5,9 @@
 <body>
     {% include topbar.html %}
     {% include categories-navbar.html %}
-    <h3>{{ page.name }}</h3>
+    {% include category-header.html %}
+    <!-- {% include category-featured.html %} -->
+    {% include category-list.html %}
     {% include footer.html %}
     {% include imports/js.html %}
 </body>
