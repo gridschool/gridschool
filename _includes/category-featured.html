@@ -1,12 +1,6 @@
-<div class="half-half">
-    <div class="content-left">
-        {% for post in site.posts limit:1 %}
-        <div class="mb-2">
-            {% include post-item.html %}
-        </div>
-        {% endfor %}
-    </div>
-    <div class="content-right">
-        {% include ad-medium.html %}
-    </div>
+<div class="featured-container">
+    {% for post in site.posts limit:2 %}
+        {% include post-item.html %}
+    {% endfor %}
+    {% include ad-medium.html %}
 </div>

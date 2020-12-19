@@ -1,5 +1,7 @@
 @import 'colors.sass'
 
+$post-width: 700px
+
 .topbar
     align-items: center
     border-bottom: solid .1em $gray
@@ -54,30 +56,24 @@
     padding: 3em 12% 2em 12%
     width: 100%
 
-.half-half
-    padding: 3em 12% 2em 12%
+.featured-container
     display: flex
+    justify-content: flex-start
+    margin: 0 0 0 0
+    padding: 3em 12% 0 12%
     width: 100%
-    .content-left
-        width: 70%
-    .content-right
-        display: flex
-        justify-content: flex-end
-        width: 30%
 
 .grid-container
     display: flex
     flex-wrap: wrap
-    justify-content: space-between
-    padding: 3em 12% 2em 12%
+    justify-content: flex-start
+    margin: 0 -1em 0 0
+    padding: 0 12% 2em 12%
     width: 100%
-    .post-item
-        margin-bottom: 3em
-        width: 30%
 
 .post-container
     margin: 3em auto
-    max-width: 630px
+    max-width: $post-width
 
 .post-categories-nav
     align-items: center
@@ -110,7 +106,7 @@
     display: flex
     flex-flow: column
     justify-content: flex-start
-    max-width: 630px
+    max-width: $post-width
     margin: 0 auto
     margin-top: 4em
     width: 100%
@@ -140,7 +136,7 @@
     width: 100%
     img
         height: auto
-        max-width: 630px
+        max-width: $post-width
         width: 100%
 
 .post-details
