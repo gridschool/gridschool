@@ -40,5 +40,3 @@ fields:
       file: 
       path: 
   label: Author
-pages:
-- _posts/2020-12-10-how-to-add-an-rss-feed-to-a-jekyll-blog.md
