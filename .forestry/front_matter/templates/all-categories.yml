@@ -8,6 +8,16 @@ fields:
     required: false
   label: layout
   default: category
+- name: name
+  type: text
+  config:
+    required: false
+  label: name
+- name: desc
+  type: text
+  config:
+    required: false
+  label: desc
 - name: main
   type: boolean
   label: main
@@ -24,13 +34,3 @@ fields:
       file: 
       path: 
   label: Main Category
-- name: name
-  type: text
-  config:
-    required: false
-  label: name
-- name: desc
-  type: text
-  config:
-    required: false
-  label: desc
