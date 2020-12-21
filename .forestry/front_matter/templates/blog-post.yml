@@ -6,6 +6,11 @@ fields:
   name: layout
   label: layout
   default: post
+- name: main_category
+  type: text
+  config:
+    required: false
+  label: Main Category
 - type: text
   name: title
   label: title
