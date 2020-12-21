@@ -1,4 +1,24 @@
 ---
 label: All Categories
 hide_body: true
-fields: []
+fields:
+- name: layout
+  type: text
+  config:
+    required: false
+  label: layout
+  default: category
+- name: main
+  type: boolean
+  label: main
+  default: false
+- name: name
+  type: text
+  config:
+    required: false
+  label: name
+- name: desc
+  type: text
+  config:
+    required: false
+  label: desc
