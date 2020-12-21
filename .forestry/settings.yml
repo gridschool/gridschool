@@ -5,6 +5,13 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: _all-categories
+  label: All Categories
+  create: all
+  match: "**/*"
+  templates:
+  - all-categories
+- type: directory
   path: _authors
   label: Authors
   create: all
