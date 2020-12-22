@@ -50,3 +50,5 @@ fields:
       file: 
       path: 
   label: author
+pages:
+- _posts/how-to-install-node.js-in-your-computer.md
