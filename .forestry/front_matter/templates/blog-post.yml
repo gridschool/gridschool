@@ -45,8 +45,3 @@ fields:
       file: 
       path: 
   label: Author
-pages:
-- _posts/javascript-post.md
-- _posts/react-post.md
-- _posts/spead-reading.md
-- _posts/top-ten-biohacks-you-cant-t-ignore.md
