@@ -39,3 +39,8 @@ more code here:
 How about this is a **super cool** text where we really want to explain something pretty cool and we have an example in the next [link](www.google.com "Just Google it!")
 
 heres some steps about how to look for things online:
+
+1. Decide what to look for
+2. Open google [here](www.google.com)
+3. Type whatever you want to find in the input box
+4. That's it!
