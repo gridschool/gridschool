@@ -44,3 +44,16 @@ heres some steps about how to look for things online:
 2. Open google [here](www.google.com)
 3. Type whatever you want to find in the input box
 4. That's it!
+
+### Heres some interesting points to talk about
+
+* Define
+* Investigate
+* Test
+* Reepeat
+
+***
+
+Oh no this is a super cool history
+
+_a story told by me!_
