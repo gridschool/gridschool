@@ -26,4 +26,12 @@ more code here:
 
 # how does it look
 
-## good?
+## this is an h2 
+
+### This is an h3 does it look good?
+
+#### And this is an h4
+
+##### This is a great H5 it should look great!
+
+###### How about a super h6? well this is it
