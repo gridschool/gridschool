@@ -50,7 +50,7 @@ heres some steps about how to look for things online:
 * Define
 * Investigate
 * Test
-* \~~~eeepeat\~~~ repeat
+* \~~~eeepeat\~~~ Repeat
 
 ***
 
