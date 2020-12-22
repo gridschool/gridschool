@@ -7,9 +7,7 @@ keywords: Web Development, Product Design, UX Design, Lifestyle Design, Self Gro
 
 {% include topbar.html %}
 {% include main-categories-navbar.html %}
-<!-- <div class="featured-post-container" style="padding-right: {{ page.paddingSides }}; padding-left: {{ page.paddingSides }};">
-    {% include featured-post.html %}
-</div> -->
+
 <div class="featured-container">
     {% for post in site.posts limit:2 %}
             {% include post-item.html %}
@@ -19,7 +17,9 @@ keywords: Web Development, Product Design, UX Design, Lifestyle Design, Self Gro
 
 <div class="grid-container">
     {% for post in site.posts %}
-        {% include post-item.html %}
+        {% if forloop.index > 2 %}
+            {% include post-item.html %}
+        {% endif %}
     {% endfor %}
 </div>
 
