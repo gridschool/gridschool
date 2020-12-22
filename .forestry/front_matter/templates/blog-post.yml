@@ -47,3 +47,4 @@ fields:
   label: Author
 pages:
 - _posts/javascript-post.md
+- _posts/react-post.md
