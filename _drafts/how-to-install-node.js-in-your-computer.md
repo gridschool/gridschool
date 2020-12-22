@@ -13,3 +13,6 @@ img_url: "/uploads/node-js_logo.svg"
 date: 2020-12-22 07:00:00 +0000
 
 ---
+### To install Node.js in your computer follow the next steps:
+
+1. Go to [nodejs.org](www.nodejs.org)
