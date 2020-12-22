@@ -11,6 +11,11 @@ fields:
   config:
     required: false
   label: main category
+- name: language
+  type: text
+  config:
+    required: false
+  label: language
 - type: text
   name: title
   label: title
@@ -45,8 +50,3 @@ fields:
       file: 
       path: 
   label: author
-- name: language
-  type: text
-  config:
-    required: false
-  label: language
