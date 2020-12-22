@@ -17,3 +17,4 @@ date: 2020-12-22 07:00:00 +0000
 
 1. Go to [nodejs.org](www.nodejs.org)
 2. You can Download the LTS (Long Term Support) version or the current version in this case we recommend the Current version.![](/uploads/screen-shot-2020-12-22-at-2-49-37-pm.png)
+3. Then just follow the wizard ![](/uploads/screen-shot-2020-12-22-at-2-52-12-pm.png)
