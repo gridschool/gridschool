@@ -35,3 +35,7 @@ more code here:
 ##### This is a great H5 it should look great!
 
 ###### How about a super h6? well this is it
+
+How about this is a **super cool** text where we really want to explain something pretty cool and we have an example in the next [link](www.google.com "Just Google it!")
+
+heres some steps about how to look for things online:
