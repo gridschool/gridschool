@@ -47,3 +47,4 @@ fields:
   label: Author
 pages:
 - _posts/how-to-host-a-jekyll-website-in-github-pages.md
+- _posts/test-post.md
