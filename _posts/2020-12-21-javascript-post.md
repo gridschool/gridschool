@@ -11,3 +11,6 @@ img_url: "/uploads/jekyll-github-pages.webp"
 date: 2020-12-21 07:00:00 +0000
 
 ---
+this is a javascript post
+
+    console.log('hello world');
