@@ -16,8 +16,8 @@ date: 2020-12-22 07:00:00 +0000
 ### To install Node.js in your computer follow the next steps:
 
 1. Go to [nodejs.org](www.nodejs.org)
-2. You can Download the LTS (Long Term Support) version or the current version in this case we recommend the Current version (in this case I'm on a mac).![](/uploads/screen-shot-2020-12-22-at-2-49-37-pm.png)
-3. Then just follow the wizard ![](/uploads/screen-shot-2020-12-22-at-2-52-12-pm.png)
-4. To make sure it's working fine open the Terminal in your machine and type `node -v` it should return the version you just installed ![](/uploads/screen-shot-2020-12-22-at-3-02-09-pm.png)
+2. You can Download the LTS (Long Term Support) version or the current version in this case we recommend the Current version (in this case I'm on a mac).![Download Node JS](/uploads/screen-shot-2020-12-22-at-2-49-37-pm.png "Install Node js")
+3. Then just follow the wizard ![Follow instructions to install node js](/uploads/screen-shot-2020-12-22-at-2-52-12-pm.png "Follow instructions to install node js")
+4. To make sure it's working fine open the Terminal in your machine and type `node -v` it should return the version you just installed ![Teminal that show Node JS version](/uploads/screen-shot-2020-12-22-at-3-02-09-pm.png "Node js version")
 
 And that's it! you have installed node correctly
