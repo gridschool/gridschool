@@ -17,15 +17,9 @@ this is a javascript post
 
 more code here:
 
-    <div class="featured-container">
-        {% for post in site.posts %}
-            {% for tag in post.tags %}
-                {% if page.name == tag and forloop.index <= 2 %}
-                    {% include post-item.html %}
-                {% endif %}
-            {% endfor %}
-        {% endfor %}
-        {% include ad-medium.html %}
+    <div class="post-categories-nav">
+        <h3>coding</h3>    
+      <a href="/all-categories/javascript.html">javascript</a>
     </div>
 
 ![alt text of the pic](/uploads/jekyll-github-pages.webp "a picture")
