@@ -32,3 +32,21 @@ Here's a sneak pick of how headers look like:
 ##### h5 Sample
 
 ###### h6 Sample
+
+### Lists
+
+Now we are going to explore how the lists look like:
+
+1. This is the first item in a **numbered list**
+2. And so it is the second item
+3. This is the third item.
+4. I think with four items is good enough
+
+How about a **bullet list**?
+
+* First item
+* Second item
+* Third item
+* Fourth item
+
+> Now this is a block quote
