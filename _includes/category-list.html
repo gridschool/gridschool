@@ -1,9 +1,9 @@
 <div class="grid-container">
-    {% for post in site.posts %}
-        {% for tag in post.tags %}
-            {% if page.name == tag and forloop.index > 2 %}
-                {% include post-item.html %}  
-            {% endif %}
-        {% endfor %}
+    {% for tag in site.tags %}
+        {% if page.name == tag[0] %}
+            {% for post in tag[1] offset: 2 %}
+                {% include post-item.html %}
+            {% endfor %}
+        {% endif %}
     {% endfor %}
 </div>

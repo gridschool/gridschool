@@ -1,10 +1,8 @@
 <div class="featured-container">
-    {% for post in site.posts %}
-        {% if forloop.index <= 2 %}        
-            {% for tag in post.tags %}
-                {% if page.name == tag %}
-                    {% include post-item.html %}
-                {% endif %}
+    {% for tag in site.tags %}
+        {% if page.name == tag[0] %}
+            {% for post in tag[1] limit:2%}
+                {% include post-item.html %}
             {% endfor %}
         {% endif %}
     {% endfor %}
