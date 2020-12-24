@@ -53,6 +53,8 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+permalink: /:categories/:title
+
 collections:
   authors:
     output: true
