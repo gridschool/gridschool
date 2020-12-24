@@ -1,6 +1,6 @@
     {% if page.main == false %}
         <div class="post-categories-nav">
-            <h3><a href="/all-categories/{{ page.main_category }}">{{ page.main_category }}</a></h3>
+            <h3><a href="/all-categories/{{ page.main_category | slugify }}">{{ page.main_category }}</a></h3>
             {% for category in site.all-categories %}
                 {% if category.main == false and category.main_category == page.main_category %}
                     <a href="{{ category.url }}" class="category-item">{{ category.name }}</a>

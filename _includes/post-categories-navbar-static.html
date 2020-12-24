@@ -1,5 +1,5 @@
 <div class="post-categories-nav">
-    <h3>{{ page.main_category }}</h3>
+    <h3><a href="/all-categories/{{ page.main_category | slugify }}">{{ page.main_category }}</a></h3>
     {% for category in site.all-categories %}
         {% if category.main_category == page.main_category and page.main_category != category.name %}
             <a href="{{ category.url }}">{{ category.name}}</a>
