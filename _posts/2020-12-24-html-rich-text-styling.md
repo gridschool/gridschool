@@ -50,3 +50,15 @@ How about a **bullet list**?
 * Fourth item
 
 > Now this is a block quote
+
+# How about block formatting?
+
+Code Block:
+
+    .topbar
+        align-items: center
+        border-bottom: solid .1em $gray
+        display: flex
+        justify-content: flex-start
+        padding: 1em 6.6em
+        width: 100%
