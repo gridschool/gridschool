@@ -59,6 +59,8 @@ $post-width: 700px
         padding: 3em 25% 2em 25%
     @media only screen and (min-width: 1400px)
         padding: 3em 20% 2em 20%
+    @media only screen and (max-width: 1024px)
+        padding: 3em 10% 2em 10%
 
 .featured-container
     display: flex
@@ -70,6 +72,8 @@ $post-width: 700px
         padding: 3em 25% 2em 25%
     @media only screen and (min-width: 1400px)
         padding: 3em 20% 2em 20%
+    @media only screen and (max-width: 1024px)
+        padding: 3em 10% 2em 10%
 
 .grid-container
     display: flex
@@ -82,6 +86,8 @@ $post-width: 700px
         padding: 0 25% 2em 25%
     @media only screen and (min-width: 1400px)
         padding: 0 20% 2em 20%
+    @media only screen and (max-width: 1024px)
+        padding: 0 10% 2em 10%
 
 .post-container
     margin: 3em auto
@@ -167,30 +173,34 @@ $post-width: 700px
         align-items: center
         display: flex
         width: 100%
-        .author-pic
-            background-color: $primary
-            background-position: center
-            background-repeat: no-repeat
-            background-size: contain
-            border-radius: 50%
-            display: block
-            height: 3.5em
-            min-width: 3.5em
-            margin-right: .5em
-            width: 3.5em
-        .post-desc
-            display: flex
-            flex-flow: column
-            .post-author-name
-                color: $primary
-                margin-bottom: .15em
-                text-transform: capitalize
-                &:hover
-                    text-decoration: underline
-            .post-date
-                font-size: .83em
-                &:hover
-                    text-decoration: underline
+    .post-row
+        align-items: center
+        display: flex
+        width: 50%
+    .author-pic
+        background-color: $primary
+        background-position: center
+        background-repeat: no-repeat
+        background-size: contain
+        border-radius: 50%
+        display: block
+        height: 3.5em
+        min-width: 3.5em
+        margin-right: .5em
+        width: 3.5em
+    .post-desc
+        display: flex
+        flex-flow: column
+        .post-author-name
+            color: $primary
+            margin-bottom: .15em
+            text-transform: capitalize
+            &:hover
+                text-decoration: underline
+        .post-date
+            font-size: .83em
+            &:hover
+                text-decoration: underline
     .post-share-options
         align-items: center
         display: flex
@@ -206,7 +216,9 @@ $post-width: 700px
     @media only screen and (min-width: 1900px)
         padding: 4em 25% 2em 25%
     @media only screen and (min-width: 1400px)
-        padding: 4em 20% 2em 20%
+        padding: 4em 13% 2em 13%
+    @media only screen and (max-width: 1024px)
+        padding: 4em 10% 2em 10%
     .content-left
         display: flex
         .author-pic
