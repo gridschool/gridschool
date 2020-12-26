@@ -55,6 +55,10 @@ $post-width: 700px
     justify-content: center
     padding: 3em 12% 2em 12%
     width: 100%
+    @media only screen and (min-width: 1900px)
+        padding: 3em 25% 2em 25%
+    @media only screen and (min-width: 1400px)
+        padding: 3em 20% 2em 20%
 
 .featured-container
     display: flex
@@ -62,6 +66,10 @@ $post-width: 700px
     margin: 0 0 0 0
     padding: 3em 12% 0 12%
     width: 100%
+    @media only screen and (min-width: 1900px)
+        padding: 3em 25% 2em 25%
+    @media only screen and (min-width: 1400px)
+        padding: 3em 20% 2em 20%
 
 .grid-container
     display: flex
@@ -70,6 +78,10 @@ $post-width: 700px
     margin: 0 -1em 0 0
     padding: 0 12% 2em 12%
     width: 100%
+    @media only screen and (min-width: 1900px)
+        padding: 0 25% 2em 25%
+    @media only screen and (min-width: 1400px)
+        padding: 0 20% 2em 20%
 
 .post-container
     margin: 3em auto
@@ -151,10 +163,10 @@ $post-width: 700px
     flex-wrap: wrap
     justify-content: space-between
     width: 100%
-    .post-row
+    .row
         align-items: center
         display: flex
-        width: 60%
+        width: 100%
         .author-pic
             background-color: $primary
             background-position: center
@@ -163,6 +175,7 @@ $post-width: 700px
             border-radius: 50%
             display: block
             height: 3.5em
+            min-width: 3.5em
             margin-right: .5em
             width: 3.5em
         .post-desc
@@ -190,6 +203,10 @@ $post-width: 700px
     flex-wrap: wrap
     margin-bottom: 1em
     padding: 4em 12% 0 12%
+    @media only screen and (min-width: 1900px)
+        padding: 4em 25% 2em 25%
+    @media only screen and (min-width: 1400px)
+        padding: 4em 20% 2em 20%
     .content-left
         display: flex
         .author-pic

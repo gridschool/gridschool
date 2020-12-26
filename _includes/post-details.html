@@ -1,6 +1,6 @@
 <div class="post-details">
     {% for author in site.authors %}
-        <div class="post-row">
+        <div class="row">
             {% if author.path == post.author_path %}
                     <a href="{{ author.url }}" class="author-pic" style="background-image: url('{{ author.img_url | relative_url }}')"></a>
                     <div class="post-desc">
