@@ -26,11 +26,11 @@ h1
     margin: 0
     font-family: 'verdana'
 
-h2
-    font-size: 2em
+.title
+    font-size: 1.7em
     font-weight: bold
     font-family: 'verdana'
-    line-height: 1.25
+    line-height: 1.26em
     margin: .5em 0 0 0
 p
     color: $text
@@ -59,6 +59,17 @@ p
 .github
     background-image: url('/assets/images/github.svg')
 
+blockquote
+    border-left: solid .25em $gray
+    margin: .3em 0 1.5em 0
+    padding: .3em 0 .3em .8em
+    p
+        margin: 0
+
+.language-plaintext
+    width: 100%
+    overflow: hidden
+
 code
     background-color: $light
     border-radius: .3em
@@ -67,18 +78,6 @@ code
 
 figure
     margin: 0
-
-pre
-    background-color: $light
-    border-radius: .3em
-    margin: .9em 0
-    width: 100%
-    code
-        margin: 0
-        padding: .9em
-        width: 100%
-        height: auto
-        display: block
 
 .post-item
     align-items: flex-start
@@ -95,6 +94,9 @@ pre
         display: block
         height: 13.3em
         width: 100%
+    p
+        font-size: 1.1em
+        line-height: 1.4em
 
 .row
     display: flex
