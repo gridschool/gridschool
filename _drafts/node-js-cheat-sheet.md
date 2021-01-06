@@ -7,8 +7,9 @@ tags:
 author_path: _authors/victor-de-leon.md
 main_category: coding
 language: en
-title: Node JS Cheat Sheet
-abstract: This is a cheat sheet of Node JS important tips and tricks.
+title: The Essencial Node JS Libraries
+abstract: A list of the essential Node.js libraries that will make your life easier
+  when developing node.js applications.
 img_url: "/uploads/node-js_logo.svg"
 date: 2021-01-06 07:00:00 +0000
 
@@ -28,3 +29,11 @@ Chalk is a library that helps you style the Terminal strings, you can add color 
 More info on how o use it and install it here:
 
 [https://www.npmjs.com/package/chalk](https://www.npmjs.com/package/chalk "https://www.npmjs.com/package/chalk")
+
+## Validator
+
+Validator is a very useful library that helps you validate emails, numbers among other types of data.
+
+More info on how o use it and install it here:
+
+[https://www.npmjs.com/package/validator](https://www.npmjs.com/package/validator "https://www.npmjs.com/package/validator")
