@@ -21,4 +21,10 @@ here is the link for documentation and  installation
 
 [https://www.npmjs.com/package/nodemon](https://www.npmjs.com/package/nodemon "https://www.npmjs.com/package/nodemon")
 
-## 
+## Chalk
+
+Chalk is a library that helps you style the Terminal strings, you can add color and font weight etc.
+
+More info on how o use it and install it here:
+
+[https://www.npmjs.com/package/chalk](https://www.npmjs.com/package/chalk "https://www.npmjs.com/package/chalk")
