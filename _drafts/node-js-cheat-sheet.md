@@ -37,3 +37,11 @@ Validator is a very useful library that helps you validate emails, numbers among
 More info on how o use it and install it here:
 
 [https://www.npmjs.com/package/validator](https://www.npmjs.com/package/validator "https://www.npmjs.com/package/validator")
+
+## Yargs
+
+Yargs helps you build interactive command line tools by parsing arguments and generating an elegan user interface.
+
+More info on how o use it and install it here:
+
+[https://www.npmjs.com/package/yargs](https://www.npmjs.com/package/yargs "https://www.npmjs.com/package/yargs")
