@@ -8,7 +8,7 @@ author_path: _authors/victor-de-leon.md
 main_category: coding
 language: en
 title: Node JS Cheat Sheet
-abstract: This is a cheat sheet of Node JS important things
+abstract: This is a cheat sheet of Node JS important tips and tricks.
 img_url: "/uploads/node-js_logo.svg"
 date: 2021-01-06 07:00:00 +0000
 
@@ -20,3 +20,5 @@ Nodemon is a pretty cool library which helps you develop node.js applications by
 here is the link for documentation and  installation
 
 [https://www.npmjs.com/package/nodemon](https://www.npmjs.com/package/nodemon "https://www.npmjs.com/package/nodemon")
+
+## 
