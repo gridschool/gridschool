@@ -20,3 +20,7 @@ To get started you need to install **Node.js** and the **create-react-app** pack
 
 1.  You can download Node.js [here](https://nodejs.org/en/ "Node.js")
 2.  You can find installation instructions for **create-react-app** [here](https://github.com/facebook/create-react-app)
+
+After you install Node.js and the **create-react-app** package run the next command in your terminal.
+
+`create-react-app react-sample`
