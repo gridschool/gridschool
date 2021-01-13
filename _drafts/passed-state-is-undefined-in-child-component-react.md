@@ -80,4 +80,4 @@ In this component you pass the **product** prop which would be an entire object
     export default connect(mapStateToProps, null)(Products);
     
 
-So if you are consistent with the props you pass to your child component it won't get undefined.
+So if you are consistent with the props you pass to your child component it shouldn't get undefined.
