@@ -56,4 +56,5 @@ pages:
 - _posts/2021-01-13-how-to-sort-an-array-in-javascript.md
 - _posts/command-line-args-in-node.js.md
 - _posts/node-js-cheat-sheet.md
+- _posts/passed-state-is-undefined-in-child-component-react.md
 - _posts/redux-overview.md
