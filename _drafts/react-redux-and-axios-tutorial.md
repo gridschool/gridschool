@@ -18,4 +18,8 @@ date: 2021-01-20 07:00:00 +0000
 
 1. Create your app using `create-react-app`
 2. Create file your files structor from the following designs
-3. 
+3. Create basic HTML for your containers
+4. Add Component Styles
+5. Implement routing
+6. Configure Redux and implement functionality
+7. Implement Axios
