@@ -22,4 +22,9 @@ date: 2021-01-20 07:00:00 +0000
 4. Add Component Styles
 5. Implement routing
 6. Configure Redux and implement functionality
+   1. Install `redux`  and `react-redux`  from npm
+   2. Configure your index.js file
+   3. Create reducers
+   4. Connect redux state to each component
+   5. Connect redux actions to each component methods
 7. Implement Axios
