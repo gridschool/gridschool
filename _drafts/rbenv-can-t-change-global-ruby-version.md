@@ -13,3 +13,13 @@ img_url: "/uploads/ruby-logo.png"
 date: 2021-02-06 07:00:00 +0000
 
 ---
+### Problem
+
+I installed a ruby version using **rbenv** and it keeps returning the Mac OS X default ruby version.
+
+### Solution
+
+You need to add the following lines to your `~/.bash_profile.`
+
+    export PATH="$HOME/.rbenv/bin:$PATH"
+    eval "$(rbenv init -)"
