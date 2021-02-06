@@ -57,5 +57,6 @@ pages:
 - _posts/command-line-args-in-node.js.md
 - _posts/node-js-cheat-sheet.md
 - _posts/passed-state-is-undefined-in-child-component-react.md
+- _posts/rbenv-can-t-change-global-ruby-version.md
 - _posts/react-redux-and-axios-tutorial.md
 - _posts/redux-overview.md
