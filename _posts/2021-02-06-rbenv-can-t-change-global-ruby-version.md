@@ -19,7 +19,7 @@ I installed a ruby version using **rbenv** and it keeps returning the Mac OS X d
 
 ### Solution
 
-You need to add the following lines to your **\~/.bash_profile.**
+You need to add the following lines to your **\~/.bash_profile**.
 
     export PATH="$HOME/.rbenv/bin:$PATH"
     eval "$(rbenv init -)"
