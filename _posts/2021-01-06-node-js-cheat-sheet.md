@@ -11,7 +11,7 @@ title: The Essencial Node JS Libraries
 abstract: A list of the essential Node.js libraries that will make your life easier
   when developing node.js applications.
 img_url: "/uploads/node-js_logo.svg"
-date: 2021-01-06 07:00:00 +0000
+date: 2021-01-06T07:00:00.000+00:00
 
 ---
 ## Nodemon
