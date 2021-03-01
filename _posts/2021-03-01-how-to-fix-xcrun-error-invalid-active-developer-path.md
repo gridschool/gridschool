@@ -6,7 +6,7 @@ tags:
 author_path: _authors/victor-de-leon.md
 main_category: coding
 language: en
-title: 'How to fix xcrun: error: invalid active developer path'
+title: 'How to fix ''xcrun: error: invalid active developer path'''
 abstract: It happens when you update your macOS or some other dependencies.
 img_url: "/uploads/code.png"
 date: 2021-03-01 07:00:00 +0000
