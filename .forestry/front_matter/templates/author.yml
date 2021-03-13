@@ -44,3 +44,8 @@ fields:
   config:
     required: false
   label: Youtube link
+- name: github_link
+  type: text
+  config:
+    required: false
+  label: Github link
