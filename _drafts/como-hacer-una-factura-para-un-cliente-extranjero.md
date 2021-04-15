@@ -5,14 +5,14 @@ tags:
 author_path: _authors/victor-de-leon.md
 main_category: Freelance
 language: es
-title: 'Como hacer una factura para un cliente extranjero '
+title: Factura para cliente extranjero desde México
 abstract: Pasos para hacer una factura para un cliente de Estados Unidos, Europa o
   cualquier otro país fuera de México.
 img_url: ''
 date: 2021-04-15 06:00:00 +0000
 
 ---
-## Pasos para facturar a un cliente extranjero
+## Datos necesarios para facturar a un cliente extranjero desde México
 
 #### Para poder facturar necesitas tener a la mano los siguientes datos:
 
