@@ -25,3 +25,5 @@ date: 2021-04-15 06:00:00 +0000
 * Al momento de realizar la factura tienes que checar el tipo de cambio actual en el [Diario Oficial de la Federación](). 
 
   (no te olvides de seleccionar el tipo de Moneda correspondiente al país).
+
+* Debido a que se esta facturando a un cliente extranjero la Tasa o Cuota  del IVA es del 0%.
