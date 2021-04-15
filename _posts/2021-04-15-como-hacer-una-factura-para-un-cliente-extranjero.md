@@ -6,8 +6,8 @@ author_path: _authors/victor-de-leon.md
 main_category: Freelance
 language: es
 title: Factura para cliente extranjero desde México
-abstract: Pasos para hacer una factura para un cliente de Estados Unidos, Europa o
-  cualquier otro país fuera de México.
+abstract: Datos necesarios para hacer una factura para un cliente de Estados Unidos,
+  Europa o cualquier otro país fuera de México.
 img_url: "/uploads/html-rich-text.webp"
 date: 2021-04-15 06:00:00 +0000
 
