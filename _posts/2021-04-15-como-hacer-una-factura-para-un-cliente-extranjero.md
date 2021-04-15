@@ -26,4 +26,4 @@ date: 2021-04-15 06:00:00 +0000
 
   (no te olvides de seleccionar el tipo de Moneda correspondiente al país).
 
-* Debido a que se esta facturando a un cliente extranjero la Tasa o Cuota  del IVA es del 0%.
+* La exportación de servicios al extranjero esta gravada a tasa 0% de IVA para las actividades mencionadas en el Artículo 29 fracción IV cuando el servicio sea aprovechado en el extranjero.
