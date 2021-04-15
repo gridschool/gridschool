@@ -12,3 +12,6 @@ img_url: ''
 date: 2021-04-15 06:00:00 +0000
 
 ---
+## Pasos para facturar a un cliente extranjero
+
+Debido a que es un cliente extranjero tienes que usar un RFC generico
