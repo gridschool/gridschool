@@ -15,4 +15,7 @@ date: 2021-08-28 06:00:00 +0000
 ---
 ## Steps to add a custom domain to Github Pages
 
-1. 
+* Add your custom domain to your Github Pages Settings
+
+  ![](/uploads/screen-shot-2021-08-28-at-2-25-06-p-m.png)
+* 
