@@ -18,4 +18,12 @@ date: 2021-08-28 06:00:00 +0000
 * Add your custom domain to your Github Pages Settings
 
   ![](/uploads/screen-shot-2021-08-28-at-2-25-06-p-m.png)
-* 
+* Add the following **A** Records to your **DNS** settings in domain provider
+
+  185\.199.108.153
+
+  185\.199.109.153
+
+  185\.199.110.153
+
+  185\.199.111.153
