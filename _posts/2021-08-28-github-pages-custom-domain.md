@@ -29,3 +29,6 @@ date: 2021-08-28 06:00:00 +0000
   185\.199.110.153
 
   185\.199.111.153
+* Add your Github domain as a CNAME record
+
+  ![](/uploads/screen-shot-2021-08-28-at-5-56-05-p-m.png)
