@@ -13,3 +13,6 @@ img_url: "/uploads/code.png"
 date: 2021-08-28 06:00:00 +0000
 
 ---
+## Steps to add a custom domain to Github Pages
+
+1. 
