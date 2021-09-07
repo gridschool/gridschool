@@ -18,7 +18,7 @@ Initially I just used the css property  `scroll-behavior: smooth;` and it worked
 
 The reason is that `scroll-behavior: smooth;` is not supported in Safari yet.
 
-The solution was to import the Polyfill with npm, in my case I was working with angular2+.
+The solution was to import the **Polyfill** with npm, in my case I was working with angular2+.
 
     npm install smoothscroll-polyfill
     npm install @types/smoothscroll-polyfill
