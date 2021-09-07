@@ -65,3 +65,4 @@ pages:
 - _posts/react-redux-and-axios-tutorial.md
 - _posts/redux-overview.md
 - _posts/reset-local-master-and-pull-again.md
+- _posts/scroll-behavior-not-working-on-safari.md
