@@ -31,4 +31,7 @@ Then in the component where I intended to use it
      	smoothscroll.polyfill();
      }
       
+    scrollFunction(event:any) {
+    	window.scroll({ top: 0, left: 0, behavior: 'smooth' });
+    }
      
