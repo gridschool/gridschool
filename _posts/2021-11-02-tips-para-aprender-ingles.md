@@ -11,7 +11,7 @@ img_url: "/uploads/html-rich-text.webp"
 date: 2021-11-02 07:00:00 +0000
 
 ---
-Hablar ingles es una habilidad muy valiosa en este tiempo, te puede abrir horizontes totalmente nuevos, tanto personal como profesionalmente, te puede ayudar a comunicarte con personas de cualquier parte del mundo incluso si el ingles es una segunda lengua para las dos personas.
+Hablar ingles es una habilidad muy valiosa, te puede abrir horizontes totalmente nuevos, tanto personal como profesionalmente, te puede ayudar a comunicarte con personas de cualquier parte del mundo incluso si el ingles es una segunda lengua para las dos personas.
 
 Sin embargo me ha tocado convivir con varias personas que se les dificulta aprender ingles, y piensan que hablar un segundo idioma es algo que simplemente no es para ellos.
 
