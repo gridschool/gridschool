@@ -19,12 +19,14 @@ Es verdad que a algunas personas se les facilita mas que a otras pero eso no sig
 
 A continuación te comparto los hábitos que me ayudaron a aprender ingles:
 
-1. Usa Duolingo al menos 15 minutos todos los días.
-2. Configura tu teléfono y todos tus dispositivos en inglés.
-3. Apréndete una canción en inglés cada 2 semanas (investiga las palabras que no entiendas).
-4. Ve una serie en inglés con subtítulos en inglés, de preferencia un capítulo todos los días (haz una pausa si es necesario e investiga el significado de las palabras que no entiendes en el traductor de Google).
-5. Toma un curso de inglés en línea durante 1 hora todos los días o 3 veces por semana.
-6. Intenta hablar con personas cuyo idioma sea ingles en un chat o videojuego en línea.
-7. Adquiera el hábito de pensar en inglés, esto es realmente util ya que te agilizara al momento de formular tus frases en ingles.
-8. Escribe un diario en inglés todas las noches. (Puede que te ayude no solo a aprender inglés, sino también a tener claridad en tus pensamientos).
-9. Lee un libro en ingles, no te preocupes si no te sabes todas las palabras hoy en día tenemos herramientas muy poderosas como la app de kindle  que te permite seleccionar una fracción de texto y traducirlo dentro de la misma app por medio de google translate.
+1. Usar Duolingo al menos 15 minutos todos los días.
+2. Configurar el teléfono y todos los dispositivos en inglés.
+3. Aprender una canción en inglés cada 2 semanas (investigar las palabras que no entiendas).
+4. Ver una serie en inglés con subtítulos en inglés, de preferencia un capítulo todos los días (hacer una pausa si es necesario e investigar el significado de las palabras que no entiendas en el traductor de Google).
+5. Tomar un curso de inglés 1 hora todos los días o 3 veces por semana.
+6. Intentar hablar con personas cuyo idioma sea ingles en un chat o videojuego en línea.
+7. Pensar en inglés, esto es realmente util ya que te agilizara al momento de formular tus frases en ingles.
+8. Escribir un diario en inglés todas las noches. (Puede que te ayude no solo a aprender inglés, sino también a tener claridad en tus pensamientos).
+9. Leer libros en ingles, no te preocupes si no te sabes todas las palabras hoy en día tenemos herramientas muy poderosas como la app de kindle  que te permite seleccionar una fracción de texto y traducirlo dentro de la misma app por medio de google translate.
+
+No te desesperes si al principio no entiendes todo o si se te dificulta, lo importante es la constancia para que poco a poco vayas adquiriendo esos nuevos hábitos y eventualmente iras aprendiendo el vocabulario.
