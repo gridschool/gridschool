@@ -12,7 +12,7 @@ date: 2021-11-02 07:00:00 +0000
 
 ---
 1. Usa Duolingo al menos 15 minutos todos los días.
-2. Configura tu teléfono y todos tus dispositivos en inglés
+2. Configura tu teléfono y todos tus dispositivos en inglés.
 3. Apréndete una canción en inglés cada 2 semanas (investiga las palabras que no entiendas).
 4. Ve una serie en inglés con subtítulos en inglés, de preferencia un capítulo todos los días (haz una pausa si es necesario e investiga el significado de las palabras que no entiendes en el traductor de Google).
 5. Toma un curso de inglés en línea durante 1 hora todos los días o 3 veces por semana.
