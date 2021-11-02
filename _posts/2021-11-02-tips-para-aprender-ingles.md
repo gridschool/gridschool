@@ -7,7 +7,7 @@ main_category: learning
 language: es
 title: Tips para aprender ingles
 abstract: Pasos que tome para aprender ingles
-img_url: ''
+img_url: "/uploads/html-rich-text.webp"
 date: 2021-11-02 07:00:00 +0000
 
 ---
