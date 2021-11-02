@@ -62,6 +62,7 @@ pages:
 - _posts/2021-07-26-sales-by-match-solution.md
 - _posts/2021-08-28-github-pages-custom-domain.md
 - _posts/2021-09-07-scroll-behavior-not-working-on-safari.md
+- _posts/apply-styles-only-to-safari.md
 - _posts/command-line-args-in-node.js.md
 - _posts/react-redux-and-axios-tutorial.md
 - _posts/redux-overview.md
